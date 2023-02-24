@@ -1,0 +1,313 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f3fff589-191f-474c-b26a-b3ac5f74f63f" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/classification/multiclass - CoNSeP.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/classification/multiclass - CoNSeP.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/classification/multiclass - PanNuke.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/classification/multiclass - PanNuke.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nurisc/matching.py" beforeDir="false" afterPath="$PROJECT_DIR$/nurisc/matching.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nurisc/mics_utils_new.py" beforeDir="false" afterPath="$PROJECT_DIR$/nurisc/mics_utils_new.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nurisc/models/_hrnet.py" beforeDir="false" afterPath="$PROJECT_DIR$/nurisc/models/_hrnet.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nurisc/models/_unetplus.py" beforeDir="false" afterPath="$PROJECT_DIR$/nurisc/models/_unetplus.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyproject.toml" beforeDir="false" afterPath="$PROJECT_DIR$/pyproject.toml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/segmentation/CPM-17/NuRiSC_CPM.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/segmentation/CPM-17/NuRiSC_CPM.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/segmentation/Kumar/NuRiSC_kumar_latest.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/segmentation/Kumar/NuRiSC_kumar_latest.ipynb" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="Jupyter Notebook" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2DOBw3ghTUr5gKOGXdisOLQEKb5" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/es255022/PycharmProjects/pCDNet/oregon&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\es255022\PycharmProjects\pCDNet\oregon\segmentation\PanNuke" />
+      <recent name="C:\Users\es255022\PycharmProjects\pCDNet\oregon\segmentation\CoNSeP" />
+      <recent name="C:\Users\es255022\PycharmProjects\pCDNet\oregon\segmentation" />
+      <recent name="C:\Users\es255022\PycharmProjects\pCDNet\oregon\segmentation\CryoNuSeg" />
+      <recent name="C:\Users\es255022\PycharmProjects\pCDNet\oregon\segmentation\Kumar" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\es255022\PycharmProjects\pCDNet\oregon\augmentation" />
+      <recent name="C:\Users\es255022\PycharmProjects\pCDNet\oregon\segmentation\CoNSeP" />
+      <recent name="C:\Users\es255022\PycharmProjects\pCDNet\oregon\segmentation\TNBC" />
+      <recent name="C:\Users\es255022\PycharmProjects\pCDNet\oregon\segmentation\CryoNuSeg" />
+      <recent name="C:\Users\es255022\PycharmProjects\pCDNet\oregon\segmentation\CPM-15" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python._attnunet">
+    <configuration name="_attnunet" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="oregon" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/nurisc/models" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/nurisc/models/_attnunet.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="_fpn" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="oregon" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/nurisc/models" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/nurisc/models/_fpn.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="_hrnet" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="oregon" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/nurisc/models" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/nurisc/models/_hrnet.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="_mrunet" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="oregon" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/nurisc/models" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/nurisc/models/_mrunet.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="model2d" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="oregon" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/nurisc/models" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/nurisc/models/model2d.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python._attnunet" />
+        <item itemvalue="Python._fpn" />
+        <item itemvalue="Python._hrnet" />
+        <item itemvalue="Python._mrunet" />
+        <item itemvalue="Python.model2d" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f3fff589-191f-474c-b26a-b3ac5f74f63f" name="Changes" comment="" />
+      <created>1660560485622</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1660560485622</updated>
+      <workItem from="1660560487387" duration="1873000" />
+      <workItem from="1660562438191" duration="11462000" />
+      <workItem from="1660615334723" duration="1949000" />
+      <workItem from="1660618194179" duration="1873000" />
+      <workItem from="1660620304399" duration="1881000" />
+      <workItem from="1660622222902" duration="1946000" />
+      <workItem from="1660624446822" duration="1104000" />
+      <workItem from="1660625579953" duration="8803000" />
+      <workItem from="1660656964947" duration="569000" />
+      <workItem from="1660705332970" duration="1876000" />
+      <workItem from="1660707290633" duration="368000" />
+      <workItem from="1660708327906" duration="2816000" />
+      <workItem from="1660711583583" duration="30788000" />
+      <workItem from="1660795552327" duration="1917000" />
+      <workItem from="1660799528784" duration="14141000" />
+      <workItem from="1660817293260" duration="13757000" />
+      <workItem from="1660846442783" duration="3571000" />
+      <workItem from="1660870152016" duration="13113000" />
+      <workItem from="1660894329645" duration="5730000" />
+      <workItem from="1660904483312" duration="1218000" />
+      <workItem from="1660966433373" duration="12836000" />
+      <workItem from="1660998445846" duration="648000" />
+      <workItem from="1660999414940" duration="676000" />
+      <workItem from="1661000316867" duration="16115000" />
+      <workItem from="1661060837426" duration="39893000" />
+      <workItem from="1661159717187" duration="16160000" />
+      <workItem from="1661236717043" duration="52466000" />
+      <workItem from="1661339998212" duration="13142000" />
+      <workItem from="1661365133227" duration="37203000" />
+      <workItem from="1661493646394" duration="831000" />
+      <workItem from="1661494506123" duration="32329000" />
+      <workItem from="1661603800785" duration="3096000" />
+      <workItem from="1661607581193" duration="6785000" />
+      <workItem from="1661654252677" duration="2904000" />
+      <workItem from="1661670836747" duration="4192000" />
+      <workItem from="1661682045413" duration="7394000" />
+      <workItem from="1661740553742" duration="2074000" />
+      <workItem from="1661767552743" duration="1378000" />
+      <workItem from="1661815059775" duration="5710000" />
+      <workItem from="1661843061134" duration="5129000" />
+      <workItem from="1662012235875" duration="718000" />
+      <workItem from="1662013955169" duration="1191000" />
+      <workItem from="1662045206968" duration="1501000" />
+      <workItem from="1662184976192" duration="1786000" />
+      <workItem from="1662367819365" duration="983000" />
+      <workItem from="1662375384768" duration="594000" />
+      <workItem from="1662802857823" duration="952000" />
+      <workItem from="1663559392897" duration="903000" />
+      <workItem from="1664962812286" duration="1934000" />
+      <workItem from="1664965568020" duration="784000" />
+      <workItem from="1664967485719" duration="2062000" />
+      <workItem from="1665047009175" duration="1130000" />
+      <workItem from="1665085793804" duration="7191000" />
+      <workItem from="1665112591791" duration="1927000" />
+      <workItem from="1665125179499" duration="9914000" />
+      <workItem from="1665213049554" duration="1068000" />
+      <workItem from="1665298260693" duration="4798000" />
+      <workItem from="1665386057929" duration="2104000" />
+      <workItem from="1665460816550" duration="4347000" />
+      <workItem from="1665547472842" duration="1608000" />
+      <workItem from="1665562808573" duration="26000" />
+      <workItem from="1665564359661" duration="2235000" />
+      <workItem from="1665582356320" duration="825000" />
+      <workItem from="1665584209974" duration="805000" />
+      <workItem from="1665585036243" duration="466000" />
+      <workItem from="1665630119657" duration="3182000" />
+      <workItem from="1665643059070" duration="8123000" />
+      <workItem from="1665706404190" duration="3477000" />
+      <workItem from="1665740818867" duration="1459000" />
+      <workItem from="1665823812454" duration="1673000" />
+      <workItem from="1665848162850" duration="1199000" />
+      <workItem from="1665926742338" duration="5458000" />
+      <workItem from="1665985576125" duration="7291000" />
+      <workItem from="1666008573136" duration="674000" />
+      <workItem from="1666075019780" duration="797000" />
+      <workItem from="1666164044329" duration="1259000" />
+      <workItem from="1666330090782" duration="2060000" />
+      <workItem from="1666421148840" duration="2214000" />
+      <workItem from="1666498903899" duration="20699000" />
+      <workItem from="1666592905016" duration="5066000" />
+      <workItem from="1666687646778" duration="603000" />
+      <workItem from="1666770516742" duration="1041000" />
+      <workItem from="1666771581889" duration="3243000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="jupyter-line">
+          <url>notebook://C:/Users/es255022/PycharmProjects/pCDNet/oregon/usage.ipynb</url>
+          <line>78</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/oregon$misc_utils.coverage" NAME="misc_utils Coverage Results" MODIFIED="1661334992217" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/stardist" />
+    <SUITE FILE_PATH="coverage/oregon$_hrnet.coverage" NAME="_hrnet Coverage Results" MODIFIED="1666588009442" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/nurisc/models" />
+    <SUITE FILE_PATH="coverage/oregon$__init__.coverage" NAME="__init__ Coverage Results" MODIFIED="1660616556806" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/stardist/models" />
+    <SUITE FILE_PATH="coverage/oregon$_fpn.coverage" NAME="_fpn Coverage Results" MODIFIED="1666588158397" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/nurisc/models" />
+    <SUITE FILE_PATH="coverage/oregon$_attnunet.coverage" NAME="_attnunet Coverage Results" MODIFIED="1666588236914" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/nurisc/models" />
+    <SUITE FILE_PATH="coverage/oregon$_mrunet.coverage" NAME="_mrunet Coverage Results" MODIFIED="1666587932369" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/nurisc/models" />
+    <SUITE FILE_PATH="coverage/oregon$model2d.coverage" NAME="model2d Coverage Results" MODIFIED="1665584755952" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/nurisc/models" />
+    <SUITE FILE_PATH="coverage/oregon$stats_utils.coverage" NAME="stats_utils Coverage Results" MODIFIED="1661335005901" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/stardist" />
+    <SUITE FILE_PATH="coverage/oregon$tfdata_wrapper.coverage" NAME="tfdata_wrapper Coverage Results" MODIFIED="1665584731245" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/nurisc/models" />
+  </component>
+</project>

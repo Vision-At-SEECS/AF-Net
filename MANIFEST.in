@@ -1,0 +1,2 @@
+recursive-include stardist/lib/ *.txt *.c *.cpp *.h *.hpp
+include pyproject.toml
